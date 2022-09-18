@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Anil</h1>
 <h3 align="center">A passionate FULL STACK Developer from India.<BR>
-I'm BSc.Computer Science graduate and Currently working as GTM Intern – Sales and Marketing @ UST.</h3>
+I'm BSc.Computer Science graduate.<br>
+Currently working as GTM Intern – Sales and Marketing @ UST.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayAnil947&label=Profile%20views&color=0e75b6&style=flat" alt="akshayAnil947" /> </p>
 <div>
