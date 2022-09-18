@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @akshayAnil947
-<h1 align="center">Hi 👋, I'm Akshay Anil K</h1>
+<h1 align="center">Hi 👋, I'm Akshay Anil</h1>
 <h3 align="center">A passionate FULL STACK Developer from India.<BR>
 I'm BSc.Computer Science graduate and Currently working as GTM Intern – Sales and Marketing @ UST.</h3>
 
